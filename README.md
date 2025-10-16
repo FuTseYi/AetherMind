@@ -1,4 +1,3 @@
-[系统报告.md](https://github.com/user-attachments/files/22939351/default.md)
 # 温度控制系统报告
 
 ## 系统简介
